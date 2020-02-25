@@ -1,0 +1,2 @@
+include ':app', ':verify'
+rootProject.name='VerifyTest'
